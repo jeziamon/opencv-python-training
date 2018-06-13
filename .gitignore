@@ -104,6 +104,5 @@ venv.bak/
 .mypy_cache/
 
 .vs
-/notebooks/2-core-operations.ipynb
 /notebooks/3-image-filters.py
 /notebooks/bernie.jpg
